@@ -99,7 +99,7 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 1. Push to the branch (`git push origin feature/fooBar`)
 1. Create a new Pull Request
 
-###### Acknowledgements
+## Acknowledgements
 
 - README template based on Dan Bader's article "How to write a great README for your GitHub project" available [here](https://dbader.org/blog/write-a-great-readme-for-your-github-project).
 
