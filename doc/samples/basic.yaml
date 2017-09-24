@@ -1,0 +1,11 @@
+- html:
+    subs:
+    - head:
+        subs:
+        - title:
+            text: This is a title
+    - body:
+        subs:
+        - p:
+            text: Hello world!
+
